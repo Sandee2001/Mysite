@@ -1,0 +1,217 @@
+header{
+    /* color: rgb(168, 196, 223); */
+    font-size: 200%;
+    text-transform: uppercase;
+    position: fixed;
+    /* background-color: brown; */
+    margin-left: 500px;
+    
+   
+    
+}
+
+button{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(145, 164, 165);
+    border-color: rgb(240, 10, 10);
+    border-width: 3px;
+}
+
+#lid{
+    /* background-color:brown; */
+    /* max-width: fit-content; */
+    text-align: center;
+    font-size: 40px;
+    background-color:rgb(176, 197, 197);
+    /* padding: 10px 10px 10px 10px; */
+    /* margin: 0px 350px 0px 350px; */
+    
+
+}
+
+body{
+    background-color:rgb(221, 195, 204);
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    
+
+}
+
+#profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 48px;
+    padding:0px;
+    /* text-align: center; */
+    cursor: pointer;
+   
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    margin:0px 30px 0px 120px;
+    background-color: brown;
+    max-width: fit-content;
+    /* text-align: center; */
+    /* padding-left: 6px; */
+    
+   
+}
+
+.sec1{
+    background-color:rgb(190, 200, 209);
+    font-family: sans-serif;
+    font-size:24px;
+    font-style:italic;
+    padding: 5px 5px 5px 5px;
+    margin-top: 25px;
+    text-justify:distribute-all-lines;
+    text-align: center;
+
+}
+
+#bt{
+    border-width: 3px;
+    border-color:darkorange;
+    background-color: aliceblue;
+}
+
+.sec2{
+    background-color: rgb(247, 247, 164);
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 25px;
+    max-height: fit-content;
+    font-size: large;
+    
+}
+
+.sec3{
+    float: left;
+    margin-top: 25px;;
+    background-color: rgb(168, 35, 35);
+    text-align: justify;
+    padding:0px 5px 0px 5px;
+    color: rgb(2, 2, 20);
+
+}
+
+#ct{
+    background-color: rgb(187, 170, 202);
+    margin-top: 25px;
+    padding: 5px;
+}
+
+
+#sk{
+    font-size: 40px;
+    background-color:rgb(223, 200, 205);
+    max-width:none;
+    padding: 0px;
+}
+
+
+ul{
+    font-size: 20px;
+    /* background-color: aqua; */
+    text-align: left;
+    margin-top:auto;
+    padding-top: 50px;
+}
+
+
+.edu{
+    height: 730px;
+    width: 975px;
+    /* color: aliceblue; */
+    background-color:cadetblue;
+    align-content: center;
+    font-size: 130%;
+    font-style: italic;
+    margin:0px 200px 0px 300px;
+    padding-top: 35px;
+    text-align: center;
+    border-radius: 100px;
+    
+}
+
+.exp{
+    background-color;
+    padding-top:35px;
+    font-size: 100%;
+    font-style: italic;
+    /* margin-top: 10px; */
+    font-size: 20px;
+    text-align: center;
+}
+
+.pro{
+    background-color:rgb(240, 150, 150);
+    padding: 2px 0px 10px 0px;
+    font-size: 150%;
+    font-style: italic;
+    margin: 25px 0px 0 0px;
+}
+
+
+.c2{
+    text-transform: capitalize;
+    font-size:20px;
+    font-display:initial;
+    background-color:moccasin;
+    border-radius: %;
+    height: 450px;
+    padding: 1% 0% 1% 15%;
+    /* margin: 15px 190px 20px 210px; */
+}
+    .logo{
+        height: 60px;
+        width: 60px;
+        border-radius: 30px;
+        margin: 0px;
+        padding: 1.5px;
+    }
+
+    h2{
+        /* color: aliceblue; */
+        /* background-color:crimson; */
+        margin-left: 430px;
+        max-width:fit-content;
+        font-size: 40px;
+        margin-top: 0px;
+    }
+
+    .cert{
+        margin-left: 20px;
+        height: 397px;
+        width: 460px;
+        border-radius: 10px;
+        padding: 10px;
+        
+
+    }
+
+    #projects{
+        /* color: aliceblue; */
+    }
+
+    .pro{
+        /* background-color: coral; */
+    }
+
+    #btn{
+        float: left;
+        margin-left:20px;
+        border-color:rgb(236, 19, 128);
+        background-color: aquamarine;
+    }
+
+    footer{
+        font-size: 20px;
+        background-color: rgb(17, 175, 122);
+        padding: 20px;
+        text-decoration: underline;
+    }
